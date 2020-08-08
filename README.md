@@ -1,1 +1,1 @@
-# node_basic
+# Nodejs 프로그래밍 연습
